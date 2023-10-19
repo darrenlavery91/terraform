@@ -44,7 +44,7 @@ Verify and customize the default values, such as regions, zones, and project IDs
 Disclaimer
 This script provides a basic template for initializing Terraform projects but may require additional configuration and adjustments based on your specific project requirements.
 
-Use at your own risk.
+Use at your own risk. Contributions are welome on structure layouts.
 
 ## License
 This script is provided under an open-source license. You can find the license information in the LICENSE file.
