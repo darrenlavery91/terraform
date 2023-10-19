@@ -47,7 +47,5 @@ This script provides a basic template for initializing Terraform projects but ma
 Use at your own risk. Contributions are welome on structure layouts.
 
 ## License
-This script is provided under an open-source license. You can find the license information in the LICENSE file.
-
-Please make sure to replace the "Prerequisites," "How to Use," and "Notes" sections with more specific information and customizations if needed. Additionally, if you plan to distribute or share this script, consider specifying the license under which you're providing it.
+This script is provided under an open-source license.
 
